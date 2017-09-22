@@ -6,9 +6,9 @@
 Code : HTML, CSS, JQuery, AJAX<br/>
 Tools : PS, AI, SublimeText<br/>
 
-KanaeFirstTemplate<a href="http://htmlpreview.github.io/?https://github.com/tyrionchiang/KanaeTemplate/blob/master/KanaeFirstTemplate/index.html">Demo</a>
+Kanae First Template <a href="http://htmlpreview.github.io/?https://github.com/tyrionchiang/KanaeTemplate/blob/master/KanaeFirstTemplate/index.html">Demo</a>
 
-KanaeFinalTemplate<a href="http://htmlpreview.github.io/?https://github.com/tyrionchiang/KanaeTemplate/blob/master/KanaeFinalTemplate/index.html">Demo</a>
+Kanae Final Template <a href="http://htmlpreview.github.io/?https://github.com/tyrionchiang/KanaeTemplate/blob/master/KanaeFinalTemplate/index.html">Demo</a>
 
 <br/><br/>
 
