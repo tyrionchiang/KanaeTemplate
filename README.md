@@ -2,10 +2,9 @@
 
 <html>
 
-<h3>2013 business project</h2>
-
+2013 business project<br/>
 Code : HTML, CSS, JQuery, AJAX<br/>
-Tools : PS, AI, SublimeText<br/><br/>
+Tools : PS, AI, SublimeText<br/>
 
 KanaeFirstTemplate<a href="http://htmlpreview.github.io/?https://github.com/tyrionchiang/KanaeTemplate/blob/master/KanaeFirstTemplate/index.html">Demo</a>
 
