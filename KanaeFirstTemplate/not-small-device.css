@@ -1,0 +1,163 @@
+body {
+	background-color: #FFF;
+	min-width: 1163px;
+	font-family: "华文细黑", "黑體", "YaHei", "arial", "times new roman", "微软雅黑";
+	color: #333;
+}
+img{
+	border:0px none;
+}
+#web{
+	width:1163px;
+	background-color: #FFF;
+	margin: 0px auto;
+}
+#header{
+	width: 100%;
+	height: 100px;
+	border-bottom: 1px solid;
+	border-color: #ddd;
+}	
+#fblink{
+	height: 32px;
+	float: right;
+	margin: 0px;
+	padding: 0px;
+	margin-top: 65px;
+}
+#fblink img{
+	width: 31px;
+}
+
+#logo{
+	float: left;
+	margin-top: 10px;
+}
+#logo img{
+	width: 100px;
+}
+#mainlogo{
+	text-align: center;
+}
+
+
+#footer{
+	clear:both;
+	color: #888;
+	font-size: 9pt;
+	text-align: center;
+}
+
+#good_item{
+	margin: 0px auto;
+	width: 290.75px;
+	height: 480px;
+	float:left;
+	text-align: center;
+}
+#prdbest{
+	float: right;
+	margin: 0px auto;
+	width: 957px;
+}
+#best_item{
+	margin: 0px auto;
+	width: 319px;
+	height: 360px;
+	float:left;
+	text-align: center;
+}
+
+#good{
+	width:260px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: right;
+	font-size: 9pt;
+}
+#good p{
+	margin: 0px auto;
+}
+
+#bs_good{
+	width:205px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: right;
+	font-size: 9pt;
+}
+#bs_good p{
+	margin: 0px auto;
+}
+#bs_good p img{
+	width: 100%;
+}
+
+
+
+
+#product_icons{
+	float: left;
+	padding-top: 10px;
+}
+#prdname{
+	padding-top: 10px;
+	font-family: "华文细黑", "黑體", "YaHei";
+	font-size: 9pt;
+	text-decoration: none;
+	color: #838383;
+	outline: medium none;
+
+}
+#prdprice{
+	color:#FAA4A4;
+	font-weight: bold;
+}
+#prd_strike{
+	color: #999;
+	font-size: 8pt;
+	font-weight: normal;
+	text-decoration: line-through;
+}
+#main_menu{
+	width: 206px;
+}
+#main_wrap{
+	clear:both;
+	width: 100%;
+	height: 10px;
+	background-color: #DBEFEF;
+	margin-bottom: 50px;
+	padding: 10px 0px;
+
+}
+#left_menu{
+	float: left;
+	width: 206px;
+}
+#menu_title{
+	color: #6b4b24;
+	font-weight: 900;
+	font-size: 14pt;
+	font-family: "Hiragino Mincho Pro",serif;
+	margin-bottom: 18px;
+	margin-top: 47px;
+}
+
+#menu_list p{
+	margin: 0px auto;
+	margin-right: 50px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 40px;
+	font-weight: 580;
+	font-size: 10pt;
+	border-left: 1px solid;
+	border-color: #999;
+	color: #333;
+}
+#weekly{
+	width: 1105px;
+	text-align: right;
+	padding-top: 35px;
+}
